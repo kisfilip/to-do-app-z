@@ -1,6 +1,6 @@
-* To-Do App Z
+# To-Do App Z
 
-** Task List
+## Task List
 
 - [ ] Break the app into components
 - [ ] Build a static version of the app
